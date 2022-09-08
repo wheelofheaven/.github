@@ -98,9 +98,12 @@ It happened already and is going to happen again in the great wheel of time. Rig
 
 The precessional Great Year, the ever- grinding millstone of time, tells a wonderful story of origins, despair, fate and hope. Let us recognize the signs of the times, the age of the Fountain finally arrived: Abundance, unity and genuine consciousness are showing the way to the eternal bond between us and infinity itself. 
 
-![wheel-of-heaven-20](https://github.com/wheelofheaven/.github/blob/main/profile/static/wheel-of-heaven-20.png)
+![wheel-of-heaven-11](https://github.com/wheelofheaven/.github/blob/main/profile/static/wheel-of-heaven-11.png)
 
 for more information, please consider
 
 - Intelligent Design: Message from the Designers, Rael (1973)
 - Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission through Myth, Giorgio de Santillana & Hertha von Dechend (1969)
+
+![wheel-of-heaven-20](https://github.com/wheelofheaven/.github/blob/main/profile/static/wheel-of-heaven-20.png)
+
