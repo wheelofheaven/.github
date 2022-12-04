@@ -1,4 +1,4 @@
-![wheel-of-heaven-banner](https://github.com/wheelofheaven/.github/blob/main/profile/static/wheel-of-heaven-banner.png)
+![wheel-of-heaven-banner](https://github.com/wheelofheaven/.github/blob/main/profile/static/wheel-of-heaven-banner.jpg)
 
 # Wheel of Heaven
 
@@ -13,7 +13,7 @@ Currently, following web projects are being hosted by Wheel of Heaven:
 - [Wheel of Heaven | Knowledge Base](https://www.wheelofheaven.io/)
 - [Wheel of Heaven | White Paper](https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md)
 - [L'Ère du Verseau | Gitbook](https://wheelofheaven.github.io/sendy-l-ere-du-verseau/)
-- [Hamlet's Mill](https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/)
+- [Hamlet's Mill | Gitbook](https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/)
 - [The Book Which Tells The Truth | Gitbook](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)
 - [Extraterrestrials Took Me To Their Planet | Gitbook](https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/)
 
