@@ -1,41 +1,39 @@
-![wheel-of-heaven-banner](https://github.com/wheelofheaven/.github/blob/main/profile/static/wheel-of-heaven-banner.jpg)
-
-# Wheel of Heaven
-
-Wheel of Heaven is a knowledge base exploring the working theory that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.
-
-## Knowledge base 🔬
-
-A knowledge base is a platform that enables the consumption of a body of knowledge that that contextualizes its units of knowledge through commentary, referencing, interlinking and formatting. This specific knowledge base is a dedicated web presence which is built with a set of best-breeds in terms of web technology. 
-
-Thus, the Wheel of Heaven knowledge base is leveraging a static site generator that basically converts markdown based content files into a fully-fledged web site. Content creation, content editing and content organization is all managed through git-based version control hosted on [Github](https://github.com). Wheel of Heaven is composed of a collection of git-based projects, most of which are meant to be consumed through the web. An offline version is not planned as of yet.
-
-Currently, following web projects are being hosted by Wheel of Heaven:
-
-- [Wheel of Heaven | Knowledge Base](https://www.wheelofheaven.io/)
-- [Wheel of Heaven | White Paper](https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md)
-- [L'Ère du Verseau | Gitbook](https://wheelofheaven.github.io/sendy-l-ere-du-verseau/)
-- [Hamlet's Mill | Gitbook](https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/)
-- [The Book Which Tells The Truth | Gitbook](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)
-- [Extraterrestrials Took Me To Their Planet | Gitbook](https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/)
-
-## Collaboration 🤝
-
-We at Wheel of Heaven commit to full transparency and want to elaborate the best possible platform for hosting the knowledge base. Of course, this is a team effort and we want to include your suggestions if you think we can make things even better. Thus, if you want to help contribute, please read our official [How to contribute](https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md) guide.
-
-- [CONTRIBUTE.md | github.com/wheelofheaven](https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md)
-
-## Contribute to help us cover the maintenance costs 🤖
-
-For now, we have very little uptime costs, howver if you feel inclined to contribute, a little financial help won't do harm.
-
-- [Open Collective | Wheel of Heaven](https://opencollective.com/wheelofheaven)
-
-## Follow us on social media 📻
-
-- [Telegram | t.me/wheelofheaven](https://t.me/wheelofheaven)
-- [Twitter | @wheelofheaven](https://twitter.com/wheelofheaven)
-
----
-
-_Made with ♥ in Switzerland using [Github](https://github.com), [Zola](https://www.getzola.org/), [Doks](https://getdoks.org/) and [mdBook](https://rust-lang.github.io/mdBook/)_
+> ![wheel-of-heaven-banner](https://github.com/wheelofheaven/.github/blob/main/profile/static/wheel-of-heaven-banner.jpg)
+>
+> # Wheel of Heaven
+>
+> **Wheel of Heaven** delves into the intriguing theory that life on Earth might have been engineered by an extraterrestrial civilization, commonly referred to as the Elohim. This knowledge base is not just a repository of information but a vibrant, interconnected web of insights and explorations.
+>
+> ## Knowledge Base 🔬
+>
+> Our knowledge base is more than just a collection of facts. It's an interactive platform, meticulously designed to present knowledge through comprehensive commentary, precise referencing, and thoughtful interlinking. We use cutting-edge web technologies and a static site generator to transform markdown content into a dynamic website. All content creation and management is conducted through git-based version control hosted on [GitHub](https://github.com). While our primary focus is on delivering a seamless online experience, an offline version might be considered in the future.
+>
+> Currently, Wheel of Heaven hosts the following web projects:
+>
+> - [Wheel of Heaven | Knowledge Base](https://www.wheelofheaven.io/)
+> - [Wheel of Heaven | White Paper](https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md)
+>
+> ## Collaboration 🤝
+>
+> At Wheel of Heaven, we believe in transparency and collaborative effort. We are always open to suggestions to enhance our platform. If you're interested in contributing, your ideas and efforts are welcome. Please refer to our [How to Contribute](https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md) guide for more details.
+>
+> - [CONTRIBUTE.md | github.com/wheelofheaven](https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md)
+>
+> ## Support Us 🤖
+>
+> Currently, our operational costs are minimal, but any financial support is appreciated to help maintain and grow our platform.
+>
+> - [Open Collective | Wheel of Heaven](https://opencollective.com/wheelofheaven)
+>
+> ## Stay Connected 📻
+>
+> Follow us on social media to stay updated with our latest findings and developments.
+>
+> - [Telegram | t.me/wheelofheaven](https://t.me/wheelofheaven)
+> - [Twitter | @wheelofheaven](https://twitter.com/wheelofheaven)
+>
+> ---
+>
+> _Made with ♥ in Switzerland, leveraging tools like [GitHub](https://github.com), [Hugo](https://gohugo.io/), [Doks](https://getdoks.org/), and [mdBook](https://rust-lang.github.io/mdBook/)._ 
+>
+> ---
