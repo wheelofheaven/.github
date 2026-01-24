@@ -2,46 +2,60 @@
 
 # Wheel of Heaven
 
-**Wheel of Heaven** explores the hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization known as the Elohim. This multilingual knowledge base presents encyclopedic content, cosmic chronology, sacred texts, and curated resources.
+**Wheel of Heaven** explores the hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization known as the Elohim. Drawing from ancient astronaut theory, Raëlian scriptures, and biblical exegesis, this multilingual knowledge base presents encyclopedic content, cosmic chronology, sacred texts, and curated resources.
 
-## Web Properties
+## Explore
+
+| | |
+|---|---|
+| [**Knowledge Base**](https://www.wheelofheaven.io) | Browse 1,251 pages across wiki entries, timeline, library, and more |
+| [**Wiki**](https://www.wheelofheaven.io/wiki/) | Encyclopedia of key terms, concepts, and figures |
+| [**Timeline**](https://www.wheelofheaven.io/timeline/) | The Great Year — 12 precessional ages spanning 26,000 years |
+| [**Library**](https://www.wheelofheaven.io/library/) | Sacred texts with reading tools, bookmarks, and highlights |
+| [**Resources**](https://www.wheelofheaven.io/resources/) | Curated books, documentaries, and websites |
+
+## Languages
+
+Available in 9 languages: English, Deutsch, Español, Français, 日本語, 한국어, Русский, 简体中文, 繁體中文
+
+## White Paper
+
+The [original white paper](https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md) (2018) tells the story of the Great Year — how the precessional cycle frames the Elohim's creation of life on Earth across cosmic ages.
+
+## Connect
+
+- [Telegram](https://t.me/wheelofheaven) — Community chat
+- [X (Twitter)](https://x.com/wheelofheaven) — Updates
+- [Open Collective](https://opencollective.com/wheelofheaven) — Support the project
+
+---
+
+## For Developers
+
+### Web Properties
 
 | Site | Description |
 |------|-------------|
-| [www.wheelofheaven.io](https://www.wheelofheaven.io) | Main knowledge base (1,251 pages, 9 languages) |
-| [api.wheelofheaven.io](https://api.wheelofheaven.io) | JSON API for programmatic access |
+| [www.wheelofheaven.io](https://www.wheelofheaven.io) | Main knowledge base |
+| [api.wheelofheaven.io](https://api.wheelofheaven.io) | JSON API |
 | [assets.wheelofheaven.io](https://assets.wheelofheaven.io) | Image CDN |
 
-## Repositories
+### Repositories
 
-### Core Sites
-| Repository | Purpose |
-|------------|---------|
-| [www.wheelofheaven.io](https://github.com/wheelofheaven/www.wheelofheaven.io) | Main Zola static site |
-| [api.wheelofheaven.io](https://github.com/wheelofheaven/api.wheelofheaven.io) | JSON API endpoints |
-| [bifrost](https://github.com/wheelofheaven/bifrost) | Zola theme (templates, SCSS, JS) |
+**Sites**
+- [www.wheelofheaven.io](https://github.com/wheelofheaven/www.wheelofheaven.io) — Main Zola static site
+- [api.wheelofheaven.io](https://github.com/wheelofheaven/api.wheelofheaven.io) — JSON API endpoints
+- [bifrost](https://github.com/wheelofheaven/bifrost) — Zola theme
 
-### Content & Data
-| Repository | Purpose |
-|------------|---------|
-| [data-content](https://github.com/wheelofheaven/data-content) | Markdown content (1,330 files) |
-| [data-library](https://github.com/wheelofheaven/data-library) | Book catalog and chapters |
-| [data-images](https://github.com/wheelofheaven/data-images) | Image processing pipeline |
+**Content & Data**
+- [data-content](https://github.com/wheelofheaven/data-content) — Markdown content (1,330 files)
+- [data-library](https://github.com/wheelofheaven/data-library) — Book catalog and chapters
+- [data-images](https://github.com/wheelofheaven/data-images) — Image processing pipeline
 
-### Documentation
-| Repository | Purpose |
-|------------|---------|
-| [docs](https://github.com/wheelofheaven/docs) | Technical documentation |
-| [.claude](https://github.com/wheelofheaven/.claude) | AI assistant context |
+**Documentation**
+- [docs](https://github.com/wheelofheaven/docs) — Technical documentation
 
-## Technology Stack
-
-- **Static Site Generator:** [Zola](https://www.getzola.org/) (Rust-based)
-- **Hosting:** Cloudflare Pages (edge deployment)
-- **Theme:** Bifrost (custom multilingual theme)
-- **Task Runner:** [mise](https://mise.jdx.dev/)
-
-## Architecture
+### Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -61,41 +75,17 @@
     └─────────────────────────────┘
 ```
 
-## Content Sections
+### Tech Stack
 
-- **Wiki** — Encyclopedia of terms and concepts
-- **Timeline** — Precessional ages and cosmic chronology
-- **Library** — Sacred texts with study tools
-- **Resources** — Curated books, videos, websites
-- **Essentials** — Quick reference guides
-- **Explainers** — In-depth articles
+- **Generator:** [Zola](https://www.getzola.org/) (Rust)
+- **Hosting:** [Cloudflare Pages](https://pages.cloudflare.com/)
+- **Theme:** Bifrost (custom)
+- **Task Runner:** [mise](https://mise.jdx.dev/)
 
-## Languages
+### Contributing
 
-English (default), Deutsch, Español, Français, 日本語, 한국어, Русский, 简体中文, 繁體中文
-
-## White Paper
-
-The [original white paper](https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md) (2018) synthesizes the narrative foundation exploring the precessional cycle as a timeline for Raëlian cosmology.
-
-## Contributing
-
-We welcome contributions! See our [documentation](https://github.com/wheelofheaven/docs) for:
-- Content authoring guidelines
-- Local development setup
-- Translation workflows
-
-## Support
-
-- [Open Collective](https://opencollective.com/wheelofheaven) — Financial support
-- [GitHub Issues](https://github.com/wheelofheaven/www.wheelofheaven.io/issues) — Bug reports and suggestions
-
-## Connect
-
-- [Telegram](https://t.me/wheelofheaven)
-- [X (Twitter)](https://x.com/wheelofheaven)
-- [GitHub](https://github.com/wheelofheaven)
+See [docs](https://github.com/wheelofheaven/docs) for setup guides, content authoring, and translation workflows.
 
 ---
 
-*Built with [Zola](https://www.getzola.org/), hosted on [Cloudflare Pages](https://pages.cloudflare.com/), open source under CC0-1.0.*
+*Open source under CC0-1.0 (Public Domain)*
