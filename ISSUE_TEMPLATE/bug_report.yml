@@ -12,7 +12,7 @@ body:
     attributes:
       label: Page URL
       description: Which page has the issue?
-      placeholder: https://www.wheelofheaven.io/wiki/elohim/
+      placeholder: https://www.wheelofheaven.world/wiki/elohim/
     validations:
       required: false
 

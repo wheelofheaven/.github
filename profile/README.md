@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| [**Knowledge Base**](https://www.wheelofheaven.io) | Browse 1,251 pages across wiki entries, timeline, library, and more |
-| [**Wiki**](https://www.wheelofheaven.io/wiki/) | Encyclopedia of key terms, concepts, and figures |
-| [**Timeline**](https://www.wheelofheaven.io/timeline/) | The Great Year — 12 precessional ages spanning 26,000 years |
-| [**Library**](https://www.wheelofheaven.io/library/) | Sacred texts with reading tools, bookmarks, and highlights |
-| [**Resources**](https://www.wheelofheaven.io/resources/) | Curated books, documentaries, and websites |
+| [**Knowledge Base**](https://www.wheelofheaven.world) | Browse 1,251 pages across wiki entries, timeline, library, and more |
+| [**Wiki**](https://www.wheelofheaven.world/wiki/) | Encyclopedia of key terms, concepts, and figures |
+| [**Timeline**](https://www.wheelofheaven.world/timeline/) | The Great Year — 12 precessional ages spanning 26,000 years |
+| [**Library**](https://www.wheelofheaven.world/library/) | Sacred texts with reading tools, bookmarks, and highlights |
+| [**Resources**](https://www.wheelofheaven.world/resources/) | Curated books, documentaries, and websites |
 
 ## Languages
 
@@ -36,15 +36,15 @@ The [original white paper](https://github.com/wheelofheaven/.github/blob/main/pr
 
 | Site | Description |
 |------|-------------|
-| [www.wheelofheaven.io](https://www.wheelofheaven.io) | Main knowledge base |
-| [api.wheelofheaven.io](https://api.wheelofheaven.io) | JSON API |
-| [assets.wheelofheaven.io](https://assets.wheelofheaven.io) | Image CDN |
+| [www.wheelofheaven.world](https://www.wheelofheaven.world) | Main knowledge base |
+| [api.wheelofheaven.world](https://api.wheelofheaven.world) | JSON API |
+| [assets.wheelofheaven.world](https://assets.wheelofheaven.world) | Image CDN |
 
 ### Repositories
 
 **Sites**
-- [www.wheelofheaven.io](https://github.com/wheelofheaven/www.wheelofheaven.io) — Main Zola static site
-- [api.wheelofheaven.io](https://github.com/wheelofheaven/api.wheelofheaven.io) — JSON API endpoints
+- [www.wheelofheaven.world](https://github.com/wheelofheaven/www.wheelofheaven.io) — Main Zola static site
+- [api.wheelofheaven.world](https://github.com/wheelofheaven/api.wheelofheaven.io) — JSON API endpoints
 - [bifrost](https://github.com/wheelofheaven/bifrost) — Zola theme
 
 **Content & Data**

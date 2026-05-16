@@ -2,7 +2,7 @@
 
 The following document has originally been created back in 2018 for the purpose of synthetizing various thoughts into one single idea. The idea of providing a basis of discussion about an intriguing emergent narrative. A narrative that is in essence based on the premises put forward by Raëlism, a new religious movement from the 1970s. While being dissatistied to not have found any extensive hub of information exploring the implications of these premises further, the author of this document, Zara Zinsfuss, decided to put together the whole narrative into one single document while providing an easy way to follow the entirety of its timeline through the realization that the precessional cycle fits perfectly to account for the longevity of all the historical events mentioned in Raëlian lore.
 
-While it wasn't conceived as a white paper so to speak, we chose to keep the document alive as it can be seen as the foundation stone what lead to the web knowledge base, [www.wheelofheaven.io](https://www.wheelofheaven.io).
+While it wasn't conceived as a white paper so to speak, we chose to keep the document alive as it can be seen as the foundation stone what lead to the web knowledge base, [www.wheelofheaven.world](https://www.wheelofheaven.world).
 
 # Wheel of Heaven (White Paper)
 
