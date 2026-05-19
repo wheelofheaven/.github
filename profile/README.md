@@ -12,11 +12,11 @@
 | [**Wiki**](https://www.wheelofheaven.world/wiki/) | Encyclopedia of key terms, concepts, and figures |
 | [**Timeline**](https://www.wheelofheaven.world/timeline/) | The Great Year — 12 precessional ages spanning 26,000 years |
 | [**Library**](https://www.wheelofheaven.world/library/) | Sacred texts with reading tools, bookmarks, and highlights |
-| [**Resources**](https://www.wheelofheaven.world/resources/) | Curated books, documentaries, and websites |
+| [**Sources**](https://www.wheelofheaven.world/sources/) | Living bibliography of every primary text the corpus cites |
 
 ## Languages
 
-Available in 9 languages: English, Deutsch, Español, Français, 日本語, 한국어, Русский, 简体中文, 繁體中文
+Available in 10 languages: English, Deutsch, Español, Français, 日本語, 한국어, Русский, 简体中文, 繁體中文, עברית
 
 ## White Paper
 
