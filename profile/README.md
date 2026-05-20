@@ -53,7 +53,8 @@ The [original white paper](https://github.com/wheelofheaven/.github/blob/main/pr
 - [data-images](https://github.com/wheelofheaven/data-images) — Image processing pipeline
 
 **Documentation**
-- [docs](https://github.com/wheelofheaven/docs) — Technical documentation
+- [docs.wheelofheaven.world](https://docs.wheelofheaven.world) — Author, contributor, and developer documentation
+  ([source](https://github.com/wheelofheaven/docs.wheelofheaven.world))
 
 ### Architecture
 
@@ -84,7 +85,7 @@ The [original white paper](https://github.com/wheelofheaven/.github/blob/main/pr
 
 ### Contributing
 
-See [docs](https://github.com/wheelofheaven/docs) for setup guides, content authoring, and translation workflows.
+See **[docs.wheelofheaven.world](https://docs.wheelofheaven.world)** for setup guides, content authoring, and translation workflows. Start with the [Quickstart](https://docs.wheelofheaven.world/getting-started/quickstart/).
 
 ---
 

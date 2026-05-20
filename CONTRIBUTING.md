@@ -31,16 +31,17 @@ Thank you for your interest in contributing! This guide will help you get starte
 
 ### 2. Set Up Local Development
 
-See the [development setup guide](https://github.com/wheelofheaven/docs/blob/main/development/setup.md) for:
-- Cloning with submodules
-- Installing dependencies (Zola, mise)
-- Running the dev server
+The fast path is the [Quickstart](https://docs.wheelofheaven.world/getting-started/quickstart/) — clone, build, preview in under five minutes. For the full dev environment (api, theme work, content-validation scripts), see [Local Setup](https://docs.wheelofheaven.world/contributing/dev/local-setup/).
 
 ### 3. Make Your Changes
 
 **For content changes:**
 - Edit files in the `data-content` repository
-- Follow [content guidelines](https://github.com/wheelofheaven/docs/blob/main/content/structure.md)
+- Follow the per-content-type guides at
+  [docs.wheelofheaven.world](https://docs.wheelofheaven.world/contributing/content/overview/)
+  ([Wiki Entry](https://docs.wheelofheaven.world/contributing/content/wiki-entry/),
+   [Article](https://docs.wheelofheaven.world/contributing/content/article/),
+   [Newsroom Dispatch](https://docs.wheelofheaven.world/contributing/content/newsroom-dispatch/))
 - Run validation: `python scripts/validate.py`
 
 **For theme/code changes:**
@@ -63,7 +64,7 @@ See the [development setup guide](https://github.com/wheelofheaven/docs/blob/mai
 | [data-content](https://github.com/wheelofheaven/data-content) | Wiki entries, translations, resources |
 | [bifrost](https://github.com/wheelofheaven/bifrost) | Templates, styles, JavaScript |
 | [www.wheelofheaven.io](https://github.com/wheelofheaven/www.wheelofheaven.io) | Site configuration, static assets |
-| [docs](https://github.com/wheelofheaven/docs) | Documentation improvements |
+| [docs.wheelofheaven.world](https://github.com/wheelofheaven/docs.wheelofheaven.world) | Documentation improvements |
 
 ## Translation
 
@@ -73,6 +74,7 @@ We support 9 languages. To help translate:
 2. Find missing translations (ko and zh-Hant need the most help)
 3. Create translation files mirroring English structure
 4. Use the [glossary](https://github.com/wheelofheaven/data-content/blob/main/i18n/glossary.json) for consistent terminology
+5. Read the [Translations guide](https://docs.wheelofheaven.world/contributing/content/translations/) for per-language conventions
 
 ## Questions?
 
